@@ -11,8 +11,8 @@ Features:
 ✔️ Input validation
 
 Technologies Used:
-Python 
-Functions
-Loops
-Conditional statements
+Python,
+Functions,
+Loops,
+Conditional statements,
 String manipulation
